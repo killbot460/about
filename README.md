@@ -10,28 +10,24 @@
 <a href="https://twitch.com/killbot460"><img src="https://img.shields.io/badge/Twitch-9146FF?logo=Twitch&logoColor=white"/></a>
  <a href="https://discord.gg/Wb9A4kwass"><img src="https://img.shields.io/badge/Discord-5865F2?logo=Discord&logoColor=white"/></a>   
 <a href="https://osu.ppy.sh/users/6575553"><img src="https://img.shields.io/badge/osu!-FF66AA?logo=osu!&logoColor=white"/></a>   
-Art commission open!   
-price - 5000 KRW   
-add background - 3000 KRW   
-
-
-https://discord.gg/Wb9A4kwass     
-chat, notification, work wip, etc.   
-
-https://twitter.com/killbot460   
-art, chat etc.   
-
-https://twitch.tv/killbot460   
-vtuber, game , art, etc.   
 
 https://youtube.com/killbot   
-mostly music , game, etc.   
+youtube 
+
+https://twitter.com/killbot460   
+twitter 
+
+https://discord.gg/Wb9A4kwass     
+discord
+
+https://twitch.tv/killbot460   
+twitch
 
 https://musescore.com/user/34360278    
-my sheet music work.   
+musescore
 
 https://github.com/killbot460   
-coming soon.   
+github
 
 https://osu.ppy.sh/users/6575553   
-my osu account.   
+osu
